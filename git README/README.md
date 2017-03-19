@@ -44,8 +44,8 @@ README文件后缀名为md。md是markdown的缩写，markdown是一种编辑博
     * 2.3-4 GitHub仓库里的图片：`https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片。 ![](https://github.com/KeenChen/ImageCache/raw/master/Logo/foryou.gif)`
     * 2.3-5 给图片加上超链接:  `[![baidu]](http://baidu.com) [baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" `
     * 2.3-6 插入代码片段:需要在代码的上一行和下一行用``` ```标记。
-  * 3.斜体、粗体、删除线
-      *斜体1*<br/>
+    
+  * 3.斜体、粗体、删除线
        _斜体2_<br/>
        **粗体1**<br/>
        __粗体2__<br/>
@@ -66,10 +66,10 @@ README文件后缀名为md。md是markdown的缩写，markdown是一种编辑博
        ~~***斜粗体删除线2***~~<br/>
        ```
        
- * 4. 锚点：
+  * 4.锚点：
       [回到顶部](#readme) 
       
- * 5. 选框列表：
+  * 5.选框列表：
   在列表符号后面加上`[]`或者`[x]`代表选中或者未选中情况
   ``` * [x] C 
        * [x] C++ 
@@ -83,7 +83,7 @@ README文件后缀名为md。md是markdown的缩写，markdown是一种编辑博
    * [x] C# 
    * [ ] C 
      
- * 6. 表格：
+  * 6.表格：
  ```
   表头1  | 表头2
 ------------- | -------------
